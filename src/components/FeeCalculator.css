@@ -1,0 +1,12 @@
+.calculatorContainer {
+    background-color: white;
+    padding: 30px;
+    margin-top: 50px;
+    margin-bottom: auto;
+    box-shadow: 0px 0px 5px #b5b5b5;
+    border-radius: 12px;
+}
+
+.deliveryPrice {
+    color: #009de0;
+}
