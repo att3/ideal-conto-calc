@@ -14,11 +14,15 @@ To Run Jest Tests:
 
 `npm test`  
 
-To Run Cypress Tests:  
+To Run Cypress Tests in console:  
 
 `npx run cypress`  
 
-To Start Server:
+To view & run Cypress Tests in browser:  
+
+`npx cypres open`  
+
+To run app:
 
 `npm start`  
 
